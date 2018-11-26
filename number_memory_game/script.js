@@ -27,8 +27,7 @@ console.log(numeri);
 //visualizzazione a schermo delle regole + numeri random
 alert('Verranno mostrati cinque numeri.\nMemorizzali.....Pronto?');
 for (var i = 0; i <= 4; i++) {
-  numeri[i];
-  alert(numeri);
+  alert(numeri[i]);
 }
 
 var numeri_utente = [];
